@@ -1,1 +1,2 @@
 # dockerComposeStarter
+docker-compose up
